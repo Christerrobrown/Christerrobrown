@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any projects within my range!
 - 📫 How to reach me, my email is brownchristerro@gmail.com.
+- Here's my codepen:https://codepen.io/christerroB
+- Twitter:https://twitter.com/Christerro3
 
 <!---
 Christerrobrown/Christerrobrown is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
